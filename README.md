@@ -71,7 +71,6 @@ Evaluation of your app across the following attributes
    | ------------- | -------- | ------------|
    | objectId      | String   | unique id for the user account (default field) |
    | author        | Pointer to User| image author |
-   | image         | File     | image that user posts |
    | createdAt     | DateTime | date when steps are cretaed/started (default field) |
    | updatedAt     | DateTime | date when last steps are tracked (default field) |
 ### Networking
